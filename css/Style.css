@@ -7,7 +7,7 @@ article {
   color: white;
 }
 .dark-blue {
-  background-color: darkblue;
+  background-color: steelblue;
   color: white;
 }
 .flex-container {
@@ -19,7 +19,7 @@ article {
   margin: 0;
 }
 .separator {
-  border-right: 1px solid black;
+  border-right: 2px solid black;
   display: block;
   height: 40px;
   line-height: 40px;
@@ -41,6 +41,12 @@ article {
 .margin-for-text {
   margin-left: 20px;
   margin-right: 20px;
+}
+.Queen {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 a {
   text-decoration: none;
