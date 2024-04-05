@@ -20,6 +20,9 @@ article {
 }
 .separator {
   border-right: 1px solid black;
+  display: block;
+  height: 40px;
+  line-height: 40px;
 }
 .border {
   border: 1px solid black;
