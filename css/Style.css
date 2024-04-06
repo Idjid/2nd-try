@@ -48,6 +48,9 @@ article {
   margin-right: auto;
   width: 50%;
 }
+.center {
+  text-align: center;
+}
 a {
   text-decoration: none;
 }
